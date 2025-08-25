@@ -1,5 +1,5 @@
 Nextwork Web Project
-Overview
+Overview 
 Nextwork Web Project is a Java-based web application managed with Maven. The project is packaged as a WAR (Web Application Archive) and is designed to be easily built and deployed using modern CI/CD practices. This repository includes configuration for AWS CodeBuild and supports automated packaging and artifact management.
 
 Features
